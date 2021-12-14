@@ -1,5 +1,6 @@
 .text-center{
     text-align: center;
+    font-size: 2em;
     padding: 50px;
 }
 /*precio*/
@@ -39,3 +40,7 @@ float: center;
     padding: 15px;
 
 }
+strong{
+    color: rgb(255, 65, 17);
+}
+
