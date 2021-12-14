@@ -1,0 +1,41 @@
+.text-center{
+    text-align: center;
+    padding: 50px;
+}
+/*precio*/
+.text-right{
+    float: right;
+    background-color: #FFF;
+    color: #000;
+    border-radius:10px ;
+}
+
+.padding15px{
+    padding: 15px;
+}
+
+.porc30{
+float: center;
+}
+
+.a-links{
+    text-decoration: none;
+    color: #FFF;
+}
+
+.content-center{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.content-izq{
+    float: left;
+    width: 50%;
+    padding: 15px;
+}
+.content-der{
+    float: right;
+    width: 50%;
+    padding: 15px;
+
+}
